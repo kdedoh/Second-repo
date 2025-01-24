@@ -3,5 +3,11 @@ For learning purposes
 
 One get more information from https://www.markdowntutorial.com/
 
-[This markup tutorial can be found here](https://g4m.clontz.org)
+[This markup tutorial can be found here][def]
 
+[this markup][def]
+
+[def]: https://g4m.clontz.org
+
+
+[this markup](https://g4m.clontz.org)
