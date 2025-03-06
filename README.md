@@ -1,14 +1,14 @@
-# Second-Repo
+# My Second-Repo
 For learning purposes
 
-One get more information from https://www.markdowntutorial.com/
+One can get more information from https://www.markdowntutorial.com/
 
-[This markup tutorial can be found here][def]
+First [This markup tutorial can be found here][def]
 
-[this markup][def]
+Second [The tutorial can be found here - this markup][def]
 
 [def]: https://g4m.clontz.org
 
-[this markup](https://g4m.clontz.org)
+[This markup did not use def - the URL is https://g4m'clontz.org](https://g4m.clontz.org)
 
 [The GitHub Book for Mathematicians][https://github.com/code4mathorg/github-for-mathematicians]
